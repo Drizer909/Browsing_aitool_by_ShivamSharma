@@ -22,13 +22,17 @@ A full-stack web application for browsing, filtering, and favoriting AI tools. B
 ## 📸 Screenshots
 
 ### Main Page (Light Mode)
-![Main Page Light](https://ibb.co/m3QQjdw)
+![screenshot-main-light](https://github.com/user-attachments/assets/944cec2c-c31b-4bc5-a6d5-4c01e43f3114)
+
 
 ### Main Page (Dark Mode) with Chart
-![Main Page Dark](https://ibb.co/8nyHQVZw)
+![screenshot-main-dark](https://github.com/user-attachments/assets/76083a51-9907-4d5a-a9b7-fcf92ce09b6a)
+
+
 
 ### Favorites Page
-![Favorites Page](https://ibb.co/qFsB8v0d)
+![screenshot-favorites](https://github.com/user-attachments/assets/baa8d39f-22e4-4a20-8fd2-23692c30bd4f)
+
 
 ## 🛠️ Tech Stack
 
